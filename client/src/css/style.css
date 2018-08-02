@@ -1,0 +1,47 @@
+body {
+  font-family: 'Montserrat', sans-serif
+}
+
+.nav-link {
+  color: white!important;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.bg-primary {
+  background-color: #b34a00!important;
+}
+
+h5 {
+  font-size: 95%;
+}
+
+img.cardCompanyLogo1 {
+  position: relative;
+  top: -200px;
+  left: 10%;
+}
+
+img.cardCompanyLogo2 {
+  position: relative;
+  top: -390px;
+  left: 335px;
+}
+
+.cardData {
+  position: relative;
+  top: -150px;
+  left: -30px;
+}
+
+h5.cardCompanyName {
+  font-weight: bolder;
+  font-size: 115%;
+  position: relative;
+  top: -20px
+}
+
+.fb-login-button {
+  margin-top: 20px;
+  margin-left: 20px;
+}
